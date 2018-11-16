@@ -1,0 +1,31 @@
+{
+  "name": "ppauction-watcher",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.5.3",
+    "cheerio": "^1.0.0-rc.2",
+    "date-and-time": "^0.6.3",
+    "dotenv": "^6.1.0",
+    "mkdirp": "^0.5.1",
+    "puppeteer": "^1.10.0"
+  },
+  "prettier": {
+    "useTabs": false,
+    "bracketSpacing": true,
+    "tabWidth": 1,
+    "printWidth": 90,
+    "singleQuote": true,
+    "trailingComma": "all",
+    "jsxBracketSameLine": false,
+    "parser": "babylon",
+    "semi": true
+  }
+}
