@@ -1,0 +1,22 @@
+[
+  {
+    "url":
+      "https://www.ppauctions.com/lot.php?l_id=122323&id=223&search=Audio%20Developments&cat=all&perPage=50&sort=2&thisPage=1",
+    "maxBid": 1130
+  },{
+    "url": "https://www.ppauctions.com/lot.php?l_id=122362&id=223&search=monitor&cat=all&perPage=20&sort=2&thisPage=3",
+    "maxBid": 200
+  },
+  {
+    "url": "https://www.ppauctions.com/lot.php?l_id=122363&id=223&search=monitor&cat=all&perPage=20&sort=2&thisPage=3",
+    "maxBid": 200
+  },
+  {
+    "url": "https://www.ppauctions.com/lot.php?l_id=122327&id=223&search=speakers&cat=all&perPage=20&sort=2&thisPage=1",
+    "maxBid": 570
+  },
+  {
+    "url": "https://www.ppauctions.com/lot.php?l_id=122328&id=223&search=speakers&cat=all&perPage=20&sort=2&thisPage=1",
+    "maxBid": 570
+  }
+]
