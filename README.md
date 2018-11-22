@@ -1,6 +1,6 @@
 # PPAUCTIONS Bidder/Scraper
 
-
+### !!! Caution. This has real world effects. Advice for first time use: START_BIDDING=0 and LOGGING=1
 
 [PPAUCTIONS](ppauctions.com) is an aunction site based out of the UK specializing in industry equipment liquidation of asset sales .
 
